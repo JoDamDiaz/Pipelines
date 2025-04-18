@@ -1,7 +1,7 @@
 Here Daniel!
 
 Hello,
-I hope you're all doing well.
+I hope you're well.
 
 Within this repository, you will find practical examples of building data processing  
 pipelines from extraction, through the corresponding transformation, to loading into the database. 
